@@ -1,8 +1,5 @@
-<!-- 
-# List all your Card Links here
+<!--
+# List your Card Link here
 
-1.
-2. 
-3.
-
+Card link: <Link>
 -->
